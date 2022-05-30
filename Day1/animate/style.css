@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    /* absolute는 부모를 기준으로 이동
+    relative는 내가 원래 있던 곳을 기준으로 상대적으로 이동
+     */
+    position: absolute;
+}

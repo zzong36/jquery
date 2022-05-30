@@ -1,0 +1,52 @@
+div{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+}
+
+#mon{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#tue{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+#wed{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+#thu{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+#fri{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#sat{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+
+#sun{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+

@@ -38,7 +38,20 @@ $(document).ready(function(){
         // 자식 중 일부만 지우기
         // 자식만 뽑아내려면 div > *
         $('div > *').remove('h1')
+
+        // $('div > *').addClass('c01')
+        // $('h1').removeClass('c01')
     })
+
+    $('#btn05').click(function(){
+        // 공백으로 둘을 구분
+       $('h1').addClass('red blue')
+    })
+    
+    $('#btn06').click(function(){
+       $('h1').removeClass('blue')
+    })
+    
 
 
 
