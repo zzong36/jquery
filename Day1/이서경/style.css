@@ -9,6 +9,14 @@ div{
     position: relative;
 }
 
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 80vh
+}
+
 #mon{
     width: 100px;
     height: 100px;
